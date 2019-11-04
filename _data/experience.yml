@@ -1,19 +1,57 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Specialist Developer - React Native
+- company: everis
+  position: Specialist Developer - React Native
+  duration: Jun, 2019 &mdash; Present
+  summary:  Developing React Native Applications for many of the everis customers, like Unilever and GPA Group. Creating the development patterns for the React Native projects and helping the business teams to achieve the best solutions for the applications created for our customers.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Specialist Developer
+- company: GOL Linhas Aéreas Inteligentes
+  position: Specialist Developer
+  duration:  Mar, 2018 &mdash; Jun, 2019
+  summary: Tech lead and developer of the mobile squad, responsible for the maintenance and new features for all the mobile applications used by the company ( GOL Airlines, GOLLOG Cargo and other internal applications ). Developed and maintained applications using Native Android ( Java ) and React Native technologies. Direct contact with key users to get the business requirements, helping them to find the best technical solution for their requirements.
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Mobile Application Developer
+- company: IT LEAN - Brasil
+  position: Mobile Application Developer
+  duration:   Jan, 2017  &mdash; Mar, 2018
+  summary: Development and maintenance of the Gol Linhas Aéreas android mobile application, working directly in the client's main office.
+  
+# Full Stack Developer
+- company: Scale Systems
+  position: Full Stack Developer
+  duration:   Dec, 2015  &mdash; Jan, 2017
+  summary: Development and maintenance of applications from several consulting clients, such as Flix Media, Levis Straus and Kinoplex. Using Java EE, AngularJS, Ionic and Objective-C. I worked mainly on the creation and maintenance of intranet and the development of hybrid mobile applications.
+  
+# System Analyst
+- company: Prime IT Services
+  position: System Analyst
+  duration:   Sep, 2015  &mdash; Dec, 2015
+  summary: Worked allocated on the client Serasa Experian, with the development of new high-profile enterprise project using the following technologies and best practices : Spring 4.0, Hibernate, Spring Batch, TDD, Continuous integration with Jenkins
+  
+  # Full Stack Developer
+- company: Dynaworks - Enterprise Technologies
+  position: Full Stack Developer
+  duration:   Apr, 2014  &mdash; Jul, 2015
+  summary: Responsible for developing mobile and web applications, making the whole process from requirements gathering with the client, defining technologies, development of mockups and setting deadlines and implementation strategy, the following technologies: Android Development (Native), IOS Development (Native - Objective-C), Liferay (Primeces, Alloy UI and Service Builder). Also responsible for the evangelization of customers, consultants and development team within the Workshifting methodology. Actions to improve communication, processes and training new evangelists, aimed at creating a sustainable and scalable ecosystem within the platform created by Dynaworks Enterprise Technologies, 'Workshifting.me'.
+  
+  # Junior Software Developer
+- company: ePartner TI
+  position: Treinee & Junior Software Developer
+  duration:   Feb, 2012  &mdash; Mar, 2014
+  summary: Mobile development of eSIAB digital solutions, employing Android mobile devices and using native languages for application development. Web development using Liferay Portal. Integration with technologies such as Maven, Hibernate, and Jenkins for automation and agility in the development process.
+  
+  # Programmer
+- company: Silvio Ferrari Informática
+  position: Visual Basic Programmer
+  duration:   Dec, 2010  &mdash; Feb, 2012
+  summary: Visual Basic programmer, using MySQL and Oracle data base. Business concepts primarily focused on Retail.
+  
+  # Trainee
+- company: Fatec Zona Leste
+  position: Treinee 
+  duration:   May, 2009  &mdash; May, 2010
+  summary: Technical support for solving problems with software conflicts (cloning machines with Norton Ghost, Acronis, Sysprep). Working with desktop virtualization technologies, utilizando VMWare and Sun Virtual Box. Participation in projects of the Research Institution, working on the development of databases and assisting in the development of software.
+  
+  
+  
