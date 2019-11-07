@@ -13,8 +13,8 @@
   role: React Native Developer
   duration: 2017 - 2019
   # url: "#"
-  description: https://www.voegol.com.br/pt/novo-aplicativo-GOL?br=banner1&of=novo-app-GOL
-  
+  description: <a href="https://www.voegol.com.br/pt/novo-aplicativo-GOL?br=banner1&of=novo-app-GOL">Novo App GOL</a> 
+
   # Selfie Checkin
 - project: Selfie Checkin
   role: Android Developer
