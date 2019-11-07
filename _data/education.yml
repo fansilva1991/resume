@@ -1,13 +1,14 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Technical Specialist - Mobile 
+  uni: ETE Parque da Juventude
+  year: 2012
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: IT Technician with Emphasis in Programming
+  uni: Etec Camargo Aranha
+  year: 2009 - 2010
+  summary: The IT technician develops and operates systems, applications and graphical interfaces. Mounts database structures and encodes programs. Projects, implements and maintains systems and applications maintenance. Selects work resources, programming languages, tools and methodologies for system development.
+
+- degree: Technologist
+  uni: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP
+  year: 2010 - Undergraduate Incomplete
+  summary: The course forms the technologist who analyzes, designs, documents, specifies, tests, implements, and maintains computational information systems. This professional also works with computer tools, computer equipment and project methodology in the production of systems. Logical reasoning, the use of programming languages and methodologies for project construction, concern with the quality, usability, integrity and security of computer programs are fundamental to the performance of this professional.
