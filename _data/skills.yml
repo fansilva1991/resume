@@ -1,29 +1,9 @@
 # Skills
 # Technical Skills
 - skill: Technical Skills
-  description: 
-  <ul>
-    <li>Javascript</li>
-    <li>React Native</li>
-    <li>Redux</li>
-    <li>React Hooks</li>
-    <li>API Integration</li>
-    <li>Flutter</li>
-    <li>Dart</li>
-    <li>Android</li>
-    <li>iOS Build & Deployment process</li>
-  </ul> 
+  description: Javascript, React Native, Redux, React Hooks, API Integration, Flutter, Dart, Android, iOS Build & Deployment process
 
 # Critical and personal skill set
 - skill: Critical and personal skill set
-  description: 
-  <ul>
-    <li>Teamwork</li>
-    <li>Result-oriented</li>
-    <li>Ethics</li>
-    <li>Interpersonal communication</li>
-    <li>New-technologies savvy</li>
-    <li>Entrepreneurial spirit </li>
-    <li>Risk and Market Opportunity analysis </li>
-  </ul> 
+  description: Teamwork, Result-oriented, Ethics, Interpersonal communication, New-technologies savvy, Entrepreneurial spirit, Risk and Market Opportunity analysis
 
