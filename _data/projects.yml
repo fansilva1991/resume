@@ -1,16 +1,25 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Unilever Veracruz
+- project: Unilever Veracruz 
+  role: React Native Developer & Tech-lead
+  duration: 2019 - 2019
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Unilever Veracruz is a mobile application created for the Unilever Kibon business team, to collect information about news prospects for the brand and to make the coaching process for the salespersons. The mobile application was created using the React Native technology, with the technologies - Realm Database, Redux, Integration with Salesforce APEX API, React Hooks. The backend of the application is a Salesforce Application, where all the managers of the business can go along of all the process for the information collected.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Novo App GOL
+- project: Novo App GOL
+  role: React Native Developer
+  duration: 2017 - 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: https://www.voegol.com.br/pt/novo-aplicativo-GOL?br=banner1&of=novo-app-GOL
+  
+  # Selfie Checkin
+- project: Selfie Checkin
+  role: Android Developer
+  duration: 2017 - 2017
+  # url: "#"
+  description: Innovation in the area: GOL is the first airline in the world to offer mobile facial recognition check-in within our APP! From June, passengers on national and international flights will be able to register facial biometrics and streamline their services with us, without including any additional data.
+  
+  
