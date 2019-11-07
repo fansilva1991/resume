@@ -1,8 +1,7 @@
 # Skills
-# Organizational leadership
+# Technical Skills
 - skill: Technical Skills
-  description: 
- <ul>
+  description: <ul>
   <li>Javascript</li>
   <li>React Native</li>
   <li>Redux</li>
@@ -14,10 +13,9 @@
   <li>iOS Build & Deployment process</li>
 </ul> 
 
-# Communications strategy
+# Critical and personal skill set
 - skill: Critical and personal skill set
-  description: 
- <ul>
+  description: <ul>
   <li>Teamwork</li>
   <li>Result-oriented</li>
   <li>Ethics</li>
